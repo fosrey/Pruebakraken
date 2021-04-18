@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "(public) dist/PruebaKraken",
+    "public": "dist/PruebaKraken",
     "ignore": [
       "firebase.json",
       "**/.*",
